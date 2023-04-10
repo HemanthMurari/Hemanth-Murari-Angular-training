@@ -12,5 +12,5 @@ fresult=filterThis(function(x){
             return false
         return true
     }
-},[2,5,45,33,43,22,11,17,8,9,5,4,90])
+},[12,7,3,2,24])
 console.log(fresult)

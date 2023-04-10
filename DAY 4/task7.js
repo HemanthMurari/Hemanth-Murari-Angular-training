@@ -7,11 +7,11 @@ function filterThis(candidateFilter,candidates)
     return result 
 }
 candidates = [
-    {sno:1,name:"Jose",score:56},
-    {sno:2,name:"Kiran",score:78},
-    {sno:3,name:"Mohit",score:99},
-    {sno:4,name:"Vinay",score:13},
-    {sno:5,name:"Arjun",score:88},]
+    {sno:1,name:"Allagadda",score:56},
+    {sno:2,name:"Naga",score:78},
+    {sno:3,name:"Hemanth",score:99},
+    {sno:4,name:"Murari",score:13},
+    {sno:5,name:"Dedalus",score:88},]
 result=filterThis(function(candidate){
         if(candidate.score>70)
           return true
