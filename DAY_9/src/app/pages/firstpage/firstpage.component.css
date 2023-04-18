@@ -1,0 +1,19 @@
+button{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: #f5f5f5;
+    padding: 30px;
+    color: white;
+    border-radius: 20px;
+}
+button:hover{
+    cursor: pointer;
+}
+span{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: x-large;}
