@@ -1,0 +1,42 @@
+.mini
+{
+    background-image: url("http://localhost/pic.png");
+    display:flex;
+    height: 20rem;
+    width: 100%;
+    text-align:center;
+    justify-content:center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-y: -290px;
+
+}
+.title
+{
+    padding: 2% 3%;
+   color: #030303;
+}
+
+a:hover
+{
+    background-color: #16223c;
+    border-radius: 10px;
+}
+.next{
+    float:right;
+    margin-top: 45px;
+    size: 30px;
+    font-size: 35px;
+}
+.prev
+{
+    float:left;
+    margin-top: 45px;
+    size: 30px;
+    font-size: 35px;
+}
+.mine{
+    padding:1rem 2rem;
+    font-weight: bold;
+    border-color:#16223c;
+}

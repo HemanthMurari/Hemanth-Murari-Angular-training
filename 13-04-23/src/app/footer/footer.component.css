@@ -1,0 +1,30 @@
+.one1{
+    background-color:#9fc0ad;
+    height: 15rem;
+
+}
+head{
+    text-align: center;
+}
+.box img{
+    width: 5rem;
+    
+}
+.box{
+    display: flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+}
+.txt p{
+    font-size: 1.2rem;
+    margin-top: 20px;
+    font-style: bold;
+}
+.icon-image{
+    margin-top: 20px;
+}
+.one1{
+    display: flex;
+}

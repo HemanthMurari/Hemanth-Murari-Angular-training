@@ -1,0 +1,18 @@
+.example-card {
+    max-width: 40%;
+    border: .5px solid rgb(235, 3, 104);
+    margin: .5rem auto;
+    background-color: rgb(164, 126, 147);
+}
+.txt{
+    margin: .1rem;
+    font-size: 1rem;
+}
+.tp{
+    float: right;
+    font-size: .6rem;
+    margin: .5rem;
+}
+.par{
+    text-align: center;
+}
