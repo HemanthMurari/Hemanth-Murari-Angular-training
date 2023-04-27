@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Watch",
+      "price": 2500,
+      "type": "Watch",
+      "desc": "Its is a nice branded watch ",
+      "image": "casio.jpg"
+
+    },
+    {
+        "id": 2,
+        "name": "Airpods",
+        "price": 45000,
+        "type": "Electronics",
+        "desc": "Its is a nice airpods ",
+        "image": "airpods.jpg"
+  
+      },{
+        "id": 3,
+        "name": "Groceries",
+        "price": 103,
+        "type": "Groceries",
+        "desc": "Its is a fresh vegetables ",
+        "image": "rices.jpg"
+  
+      },{
+        "id": 4,
+        "name": "Harry Potter",
+        "price": 1700,
+        "type": "Books",
+        "desc": "Its is a popular series of harry potter",
+        "image": "Harry.jpg"
+  
+      },{
+        "id": 5,
+        "name": "Boat Airdopes 441 ",
+        "price": 3500,
+        "type": "Electronics",
+        "desc": "Its is a nice airpods with good battery",
+        "image": "boatairpods.jpg"
+  
+      },{
+        "id": 6,
+        "name": "Dry Fruits",
+        "price": 115,
+        "type": "Groceries",
+        "desc": "Its is a nice Dry Fruits which was used to weight loss",
+        "image": "oats.jpg"
+  
+      },{
+        "id": 7,
+        "name": "Smart Watch",
+        "price": 25000,
+        "type": "Smart Watch",
+        "desc": "Its is a nice smart watch",
+        "image": "ax.jpg"
+  
+      },{
+        "id": 8,
+        "name": "Mahabharath ",
+        "price": 1600,
+        "type": "Books",
+        "desc": "Its is a holy book",
+        "image": "mb.jpg"
+  
+      },{
+        "id": 9,
+        "name": "perfume",
+        "price": 940,
+        "type": "Cosmetics",
+        "desc": "Its is a nice perfume ",
+        "image": "perfume.jpg"
+  
+      },{
+        "id": 10,
+        "name": "Asus Zenbook 14X 2022",
+        "price": 250000,
+        "type": "Electronics",
+        "desc": "Its is a nice Laptop",
+        "image": "lap.jpg"
+  
+      },{
+        "id": 11,
+        "name": "Face Serum",
+        "price": 290,
+        "type": "Cosmetics",
+        "desc": "Its is a nice seerum ",
+        "image": "face.jpg"
+  
+      }
+  ]
+}

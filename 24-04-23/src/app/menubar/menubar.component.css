@@ -1,0 +1,29 @@
+.nv{
+    text-align: center;
+    align-items: center; 
+    justify-content: space-between; 
+    align-content: justify; 
+    background-color: #fcfeff;
+    padding: .13rem;
+    margin: .5rem;
+    font-weight: bolder;
+}
+.nv1{
+    float: right;
+    justify-content: space-between; 
+    align-items: center; 
+
+}
+.nv>*{
+    
+    font-size: 2rem;
+}
+.crd{
+    padding: 0rem 1rem;
+}
+#comp{
+    text-decoration: none;
+    color:  #0d0d0d;
+    background-color: white;
+    padding: 0rem;
+}

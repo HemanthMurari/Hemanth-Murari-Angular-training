@@ -1,0 +1,36 @@
+/* .example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  } */
+  .example-form mat-form-field{
+    width: 60%;
+    margin:  auto;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20%;
+  }
+  .example-full-width {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50%;
+  }
+  
+  .example-option-img {
+    vertical-align: middle;
+    margin-right: 8px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50%;
+  }
+  
+  [dir='rtl'] .example-option-img {
+    margin-right: 0;
+    margin-left: 8px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50%;
+  }
+
+  
